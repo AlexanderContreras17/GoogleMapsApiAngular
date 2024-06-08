@@ -1,0 +1,26 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 90vh; 
+    text-align: center;
+  }
+
+  .container h1{
+    width: 70%;
+    
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+  
+  
+  google-map {
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    margin-top: 20px; 
+  }
+  
+ 
